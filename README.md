@@ -3,8 +3,9 @@
     <summary><h1 align="center">Hey, I'm Mikko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1></summary>
   </ul>
 </div>
+  <ul align="center">
 
-- 🎓 Pursuing a Computer Science degree at Cornell University
+- Computer Science at Cornell University
 
 <br>
 
