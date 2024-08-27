@@ -5,7 +5,7 @@
 </div>
   <ul align="center">
 
-- Computer Science at Cornell University
+Computer Science at Cornell University
 
 <br>
 
