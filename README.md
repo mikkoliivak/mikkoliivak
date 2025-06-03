@@ -9,5 +9,5 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,ocaml,html,css,flask,docker,assembly,git,vscode,github&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,ocaml,html,css,flask,docker,git,vscode,github&perline=14" />
 </div>
