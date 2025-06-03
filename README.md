@@ -1,4 +1,4 @@
-<div id="user-content-toc">
+31<div id="user-content-toc">
   <ul align="center">
     <summary><h1 align="center">Hi, I'm Mikko
   </ul>
@@ -9,5 +9,5 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,ocaml,html,css,flask,git,vscode,github&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,ocaml,html,css,flask,docker, assembly, git,vscode,github&perline=14" />
 </div>
