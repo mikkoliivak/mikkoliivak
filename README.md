@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header" width="100%"/>
 
-# Mikko Liivak
+# mikko liivak
 
 <a href="https://github.com/mikkoliivak">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Audio+DSP+%26+plugin+development;Computer+vision+experiments;Full-stack+web+apps;Always+shipping+something+new&font=Fira+Code&center=true&width=600&height=40&color=58a6ff&vCenter=true&size=20"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=audio+dsp+%26+plugin+development;full-stack+web+apps;cornell+cs&font=Fira+Code&center=true&width=600&height=40&color=58a6ff&vCenter=true&size=20"/>
 </a>
 
 </div>
