@@ -10,8 +10,6 @@
 
 </div>
 
-<p align="center">I'm a CS student at Cornell who likes building things. 🛠️</p>
-
 <br/>
 
 ### 🛠️ Tech stack
